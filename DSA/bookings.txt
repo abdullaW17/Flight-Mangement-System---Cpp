@@ -1,0 +1,3 @@
+Direct FlightHongkong -> Tokyo | Date: 2/12/2019 | Departure: 1:00 | Arrival: 6:00 | Cost: 35000 | Airline: Emirates
+Connecting Flight:
+Islamabad -> NewYork -> Amsterdam | Date: 1/12/2019 | Total Cost: 375000 | Airline 1: Qatar | Airline 2: ANA

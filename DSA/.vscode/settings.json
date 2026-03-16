@@ -1,0 +1,29 @@
+{
+    "cSpell.words": [
+        "adjlist",
+        "arrivaltime",
+        "citycount",
+        "cityname",
+        "citynames",
+        "departuretime",
+        "destinationity",
+        "flightdatanode",
+        "flightlist",
+        "origincity",
+        "searchflights",
+        "sourcececity",
+        "totalcities",
+        "traveldate"
+    ],
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "string": "cpp",
+        "fstream": "cpp",
+        "iomanip": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "vector": "cpp"
+    }
+}
